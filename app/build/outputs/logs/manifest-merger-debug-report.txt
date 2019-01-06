@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b7e62cfd2b40cdc53c831ee1e7389e7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kiran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ec91854b2f230ff2022457dc7dee9dda/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ac63af21913e77b0bebcbecb56b6e18b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e0e1337c7ac7e9bbff06df5406d39f87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ac47726540f512eea7eeb856c068d7ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/16da7b1dd41382f4013cd6828e96ba0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1bfd75431c6adbd1507fcaccfbe36811/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/34f33a6dc9aaf272dc750389f8fd8845/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/4080a86a465f2c9b98596e288c14968e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6f94e3281c2f95fe7d311391fac24395/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7b90802303f49a9cbd838bdc0bf915b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3ff4651173d30bd9db30bddbcf43b3b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cd0bc4a96d59c2efd65c10bf6214cb2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/23103a65b15bcb14b091266176f56627/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a16ea540a559ef3b817f758077d3b0d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fbf7a4cb773d99111f4d82ecb6c0ae8e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5a9e0c3da9e32066ef682825c54ac87b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/6ff729106f56f61deac533049964a96d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/kiran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ac4647de6cd571bd40d048077d39f826/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/29cabd4fd6d358f6348973426273f5cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7f0d4f6393e34a6ef81209b42100cad6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1839e9c10861bd1058bfadb88fa5b546/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/kiran/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/82aabc4fcd662e55cd8297163c05baf0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/kiran/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/320689913538a9441f9720fe9f20ecbc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/kiran/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e44eccc42649db08755f9fc28b4c0ffe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/kiran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/84a93d47aa8de97e745e872b575ccd29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/739574a99444614174873c4061197e11/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml
+		ADDED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml
+		ADDED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kiran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ec91854b2f230ff2022457dc7dee9dda/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kiran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ec91854b2f230ff2022457dc7dee9dda/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fbf7a4cb773d99111f4d82ecb6c0ae8e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fbf7a4cb773d99111f4d82ecb6c0ae8e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5a9e0c3da9e32066ef682825c54ac87b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5a9e0c3da9e32066ef682825c54ac87b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fbf7a4cb773d99111f4d82ecb6c0ae8e/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.kiran.guess.MainActivity
+ADDED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml
+INJECTED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b7e62cfd2b40cdc53c831ee1e7389e7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b7e62cfd2b40cdc53c831ee1e7389e7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kiran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ec91854b2f230ff2022457dc7dee9dda/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kiran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ec91854b2f230ff2022457dc7dee9dda/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ac63af21913e77b0bebcbecb56b6e18b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ac63af21913e77b0bebcbecb56b6e18b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e0e1337c7ac7e9bbff06df5406d39f87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e0e1337c7ac7e9bbff06df5406d39f87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ac47726540f512eea7eeb856c068d7ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ac47726540f512eea7eeb856c068d7ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/16da7b1dd41382f4013cd6828e96ba0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/16da7b1dd41382f4013cd6828e96ba0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1bfd75431c6adbd1507fcaccfbe36811/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1bfd75431c6adbd1507fcaccfbe36811/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/34f33a6dc9aaf272dc750389f8fd8845/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/34f33a6dc9aaf272dc750389f8fd8845/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/4080a86a465f2c9b98596e288c14968e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/4080a86a465f2c9b98596e288c14968e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6f94e3281c2f95fe7d311391fac24395/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6f94e3281c2f95fe7d311391fac24395/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7b90802303f49a9cbd838bdc0bf915b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7b90802303f49a9cbd838bdc0bf915b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3ff4651173d30bd9db30bddbcf43b3b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3ff4651173d30bd9db30bddbcf43b3b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cd0bc4a96d59c2efd65c10bf6214cb2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cd0bc4a96d59c2efd65c10bf6214cb2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/23103a65b15bcb14b091266176f56627/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/23103a65b15bcb14b091266176f56627/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a16ea540a559ef3b817f758077d3b0d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a16ea540a559ef3b817f758077d3b0d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fbf7a4cb773d99111f4d82ecb6c0ae8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fbf7a4cb773d99111f4d82ecb6c0ae8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5a9e0c3da9e32066ef682825c54ac87b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5a9e0c3da9e32066ef682825c54ac87b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/6ff729106f56f61deac533049964a96d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/6ff729106f56f61deac533049964a96d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/kiran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ac4647de6cd571bd40d048077d39f826/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/kiran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ac4647de6cd571bd40d048077d39f826/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/29cabd4fd6d358f6348973426273f5cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/29cabd4fd6d358f6348973426273f5cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7f0d4f6393e34a6ef81209b42100cad6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7f0d4f6393e34a6ef81209b42100cad6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1839e9c10861bd1058bfadb88fa5b546/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1839e9c10861bd1058bfadb88fa5b546/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/kiran/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/82aabc4fcd662e55cd8297163c05baf0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/kiran/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/82aabc4fcd662e55cd8297163c05baf0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/kiran/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/320689913538a9441f9720fe9f20ecbc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/kiran/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/320689913538a9441f9720fe9f20ecbc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/kiran/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e44eccc42649db08755f9fc28b4c0ffe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/kiran/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e44eccc42649db08755f9fc28b4c0ffe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/kiran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/84a93d47aa8de97e745e872b575ccd29/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/kiran/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/84a93d47aa8de97e745e872b575ccd29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/739574a99444614174873c4061197e11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/kiran/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/739574a99444614174873c4061197e11/AndroidManifest.xml:20:5-44
+INJECTED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml
+INJECTED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml
+		ADDED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml
+		ADDED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kiran/AndroidStudioProjects/Guess/app/src/main/AndroidManifest.xml
